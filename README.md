@@ -22,6 +22,7 @@ This code demonstrates all six fundamental Object-Oriented Programming principle
 ### 1. Classes and Objects
 - The code defines several classes (`GameLogger`, `Weapon`, `Character`, `Boss`, `Game`) that encapsulate data and behavior
 - Objects are instantiated from these classes (e.g., player character, bosses, weapons)
+- Each class has clear responsibilities and maintains its own state
 
 ### 2. Inheritance
 - `Boss` inherits from `Character`, demonstrating class hierarchy
